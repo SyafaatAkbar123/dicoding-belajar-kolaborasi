@@ -2,4 +2,4 @@
 1
 2
 3
-edit infor
+edit informaticasro
